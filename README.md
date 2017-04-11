@@ -1,2 +1,2 @@
 # hello_world
-training
+training fave colour green
